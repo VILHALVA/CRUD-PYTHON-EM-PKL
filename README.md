@@ -4,8 +4,9 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O aplicativo é um sistema básico de gerenciamento de usuários implementado em Python, utilizando um paradigma de CRUD (Create, Read, Update, Delete) para realizar operações simples em um arquivo de texto. Abaixo estão os principais recursos e funcionalidades do aplicativo:
+O aplicativo é um sistema básico de gerenciamento de usuários implementado em Python, utilizando um paradigma de CRUD (Create, Read, Update, Delete) para realizar operações simples em um arquivo de texto.
 
+## RECURSOS:
 1. **Adicionar Usuário:**
    - Permite a adição de um novo usuário ao sistema.
    - Solicita o nome e a idade do usuário por meio da entrada do usuário.
@@ -34,11 +35,19 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
 
 7. **Encerramento Controlado:**
    - Permite ao usuário sair do aplicativo de maneira controlada, encerrando o programa de acordo com sua escolha.
+   
+## EXECUTANDO O PROJETO:
 
-O aplicativo fornece uma experiência básica de CRUD para gerenciar informações de usuários, sendo uma introdução prática aos conceitos de manipulação de arquivos em Python e operações básicas de banco de dados.
+## SOBRE O EXECUTAVEL:
+- Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
 
-## SAIBA MAIS:
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CURSO DE EXE](https://github.com/VILHALVA/CURSO-DE-EXE)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 
