@@ -35,8 +35,18 @@ O aplicativo é um sistema básico de gerenciamento de usuários implementado em
 
 7. **Encerramento Controlado:**
    - Permite ao usuário sair do aplicativo de maneira controlada, encerrando o programa de acordo com sua escolha.
-   
+
 ## EXECUTANDO O PROJETO:
+1. Execute o arquivo Python.
+2. Isso iniciará o aplicativo e exibirá um menu com as seguintes opções:
+   - **1. ADICIONAR USUÁRIO:** Permite adicionar um novo usuário ao sistema. Você será solicitado a digitar o nome e a idade do usuário.
+   - **2. LISTAR USUÁRIOS:** Exibe uma lista de todos os usuários cadastrados, mostrando seus nomes e idades.
+   - **3. ATUALIZAR USUÁRIO:** Permite atualizar as informações de um usuário existente. Você será solicitado a digitar o nome do usuário que deseja atualizar, o novo nome e a nova idade.
+   - **4. EXCLUIR USUÁRIO:** Permite excluir um usuário existente. Você será solicitado a digitar o nome do usuário que deseja excluir.
+   - **5. SAIR:** Encerra o aplicativo.
+3. Escolha a opção desejada digitando o número correspondente e pressionando Enter.
+4. Siga as instruções apresentadas na tela para realizar as operações desejadas, como adicionar, listar, atualizar ou excluir usuários.
+5. Após concluir uma operação, o menu será exibido novamente para que você possa escolher outra opção, ou você pode optar por sair do aplicativo digitando "5" e pressionando Enter.
 
 ## SOBRE O EXECUTAVEL:
 - Este arquivo executável está disponível apenas para `Windows X64`. Para executá-lo, basta dar dois cliques. O executável é bastante útil caso o Python não esteja instalado. Trata-se da mesma aplicação do arquivo `CODIGO.py`. Se desejar, você pode recompilá-lo novamente; é para isso que forneci o arquivo `imagem.ico`.
